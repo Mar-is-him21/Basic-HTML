@@ -1,0 +1,26 @@
+body { 
+    background-color: rgb(243, 160, 7);
+    margin: 0;
+}
+
+#pic {
+    width: 248px;
+    height: 356px;
+    padding: 60px;
+    border: 5px solid rgb(11, 177, 108);
+    background-color: rgb(207, 24, 11);
+    margin-top: 10px;
+    margin-left: 100px;
+    align-self: center;
+}
+
+#pic2 {
+    width: 450px;
+    height: 156px;
+    padding: 60px;
+    border: 7px solid rgb(92, 206, 200);;
+    background-color: rgb(231, 225, 141);
+    margin-top: 10px;
+    margin-left: 1000px;
+    align-self: center;
+}
